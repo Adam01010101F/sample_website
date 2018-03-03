@@ -1,3 +1,3 @@
-<p>
-This is a <strong>sample website</strong> I am making to practice html and css.
-</p>
+# Sample_Website
+
+Practing my html and css skills. 
